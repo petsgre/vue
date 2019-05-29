@@ -19,3 +19,9 @@
 - 在阅读源码的同时我会给代码中添加注释，帮助记录和理解
 - 此次学习vue 2.0+(3.0作为以后的补充再做计划)
 - 项目笔记同步在另一个仓库 [Vue源码解析](https://github.com/petsgre/tutorial/tree/master/%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/vue)
+
+
+### 相关链接
+
+- [bilibili vue源码分析视频讲解](https://www.bilibili.com/video/av50438659/?p=45)
+- [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
